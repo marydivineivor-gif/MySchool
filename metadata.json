@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IvorSmartSchools Management System",
+  "description": "A comprehensive school administration platform featuring modules for student and teacher management, fee tracking, enrollment analytics, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
